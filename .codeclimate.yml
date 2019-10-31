@@ -3,8 +3,3 @@ plugins:
     enabled: true
     config:
       file: "config/checkstyle/checkstyle.xml"
-
-engines:
-  checkstyle:
-    enabled: true
-    config: 'config/checkstyle/checkstyle.xml'
